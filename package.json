@@ -1,0 +1,32 @@
+{
+  "name": "meesterproef",
+  "version": "1.0.0",
+  "description": "An Assignment of Hva",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niyorn/meesterproef-oba"
+  },
+  "keywords": [
+    "hva",
+    "oba",
+    "meesterproef"
+  ],
+  "author": "Chanakarn Niyornram",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niyorn/meesterproef-oba/issues"
+  },
+  "homepage": "https://github.com/niyorn/meesterproef-oba#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.5.8",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
